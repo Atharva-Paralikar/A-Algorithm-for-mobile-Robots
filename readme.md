@@ -40,7 +40,7 @@ cd ~/A-star-Algorithm-for-mobile-Robots
 ```
 3. Run the package 
 ```
-python3 dijkstra.py
+python3 astar.py
 ```
 ## Obstacle Map
 
