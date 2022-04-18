@@ -43,14 +43,13 @@ cd ~/A-star-Algorithm-for-mobile-Robots
 python3 astar.py
 ```
 ## Obstacle Map
+![Obstacle Space](https://github.com/Atharva-Paralikar/A-star-Algorithm-for-mobile-Robots/blob/master/docs/obstacle_map.jpg)
 
-
-## Visualisation of the Node Exploration
+## Visualisation of the Node Exploration and Optimal Path
 
 Start Node = [0,0]
 
 Goal Node = [400,250]
 
-## Optimal Path Generation
-
+![Video](https://github.com/Atharva-Paralikar/A-star-Algorithm-for-mobile-Robots/blob/master/docs/video.gif)
 
